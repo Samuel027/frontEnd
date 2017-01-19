@@ -1,4 +1,4 @@
-# A Website built with Html and CSS
+# A Website built with HTML and CSS
 
 A GitHub repo containing a clone of a simple user interface created using HTML and CSS.
 
