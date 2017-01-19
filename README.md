@@ -2,6 +2,14 @@
 
 A GitHub repo containing a clone of a simple user interface created using HTML and CSS.
 
+# HTML
+
+HTML is an acronym for Hyper Text Markup Language. It is a computer language devised to allow website creation. These websites can then be viewed by anyone else connected to the Internet.
+
+# CSS
+
+CSS is an acronym for Cascading Style Sheet. It is used to define styles for your web pages, including the design, layout and variations in display for different devices and screen sizes. 
+
 ## Getting Started
 
 The following step by step instructions should get the website running.
