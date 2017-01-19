@@ -14,7 +14,7 @@ A computer with any browser installed.
 
 Clone the following github repository. 
 
-`https://github.com/Samuel027/.git`
+`https://github.com/Samuel027/frontEnd.git`
 
 ## Running the website
 
